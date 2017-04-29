@@ -1,13 +1,13 @@
 # Salesforce Foster Parent Recruiting and Onboarding Portal
 This is an example of a Salesforce Community that can be used to optimize the experience for prospective and in-process Foster Parents 
-resulting in an increased pipeline of candidate families and higher rentention rates during the onboarding process.
+resulting in an increased pipeline of candidate families and higher retention rates during the onboarding process.
 
 The live prototype is here: https://vlocityps10-153bf76670b-156eab4cda9.force.com/hackfostercare/s/
 
 A high percentage of prospective Foster Parents drop out of the process for various reasons due to the current low-tech / low-touch 
 approach that that relies on overworked case workers to manage the process manually via phone calls and paper forms. This process 
 can be automated, and the application experience can be streamlined by engaging the prospective Foster Parents via an online portal. 
-Frustration during the aquisition and onboarding of Foster Parents comes largely from a lack of understanding of the process and poor 
+Frustration during the acquisition and onboarding of Foster Parents comes largely from a lack of understanding of the process and poor 
 communication and responsiveness from the agencies.
 
 This portal presumes the prospective Foster Parent has already been targeted via a digital marketing campaign tool (e.g. 
@@ -36,7 +36,7 @@ parents from their own experiences.
 
 [![hackfostercarefpportalgroup.jpg](https://s25.postimg.org/8jr7fxwv3/hackfostercarefpportalgroup.jpg)](https://postimg.org/image/jw3sxq5jv/)
 
-Once the prospective parents have all the information they need and questions answered, there is clear explanantion of the process provided 
+Once the prospective parents have all the information they need and questions answered, there is clear explanation of the process provided 
 and the site navigates the parents through the process. Iteration is required to keep the process from being daunting, but the 
 experience is made easier as applicants can track their progress and communications are automated via email or SMS.
 
